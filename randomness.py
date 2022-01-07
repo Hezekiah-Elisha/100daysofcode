@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 import random
-# from random import randrange
 
 
 def random_number():
